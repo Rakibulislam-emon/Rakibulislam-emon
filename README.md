@@ -1,10 +1,10 @@
-<div>
-  <img  align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Rakibulislam-emon.Rakibulislam-emon" />
 
-</div>
-  <a>
+  <img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rakibulislam-emon.Rakibulislam-emon" />
+
+
+  <div align="center">
     <img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" />
-  </a>
+  </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakibul+Islam+Emon!;" />
