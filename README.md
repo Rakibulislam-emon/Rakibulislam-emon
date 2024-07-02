@@ -17,9 +17,16 @@
 <div align="center">
  
  
- 🌱  I’m currently learning React, JavaScript, and CSS, and experimenting with UI/UX design to create visually stunning interfaces. **
+ 🌱  I’m currently learning: **React, JavaScript, and CSS, and experimenting with UI/UX design to create visually stunning interfaces.**
+ 
+ 👯 I’m looking to collaborate on: **web development projects and learning together**
 
-⚡ Fun fact **I'm a self-taught developer who loves solving rubix cube and playing chess in my free time. **
+ 💬 Ask me about: **web development techniques and best practices, React, Node, Firebase, JavaScript more..**
+ 
+ 📫 How to reach me: **<a href="mailto:rakibulislamemon60@gmail.com" style="background-color: #00acee; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Send Email</a>**
+
+⚡ Fun fact: **I'm a self-taught developer who loves solving rubix cube and playing chess in my free time.**
+
 
  </div>
 
