@@ -61,10 +61,10 @@ const rakibul = {
 
 <div align="center">
   <a href="https://github.com/Rakibulislam-emon/github_repo_remover">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=nest_client&theme=vue-dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=githhub_repository_remover&theme=vue-dark&hide_border=true" />
   </a>
   <a href="https://github.com/Rakibulislam-emon/Nest_Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=nest_server&theme=vue-dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=nest_ecommerc&theme=vue-dark&hide_border=true" />
   </a>
 </div>
 
