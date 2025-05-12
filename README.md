@@ -60,10 +60,10 @@ const rakibul = {
 ## 🏆 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/Rakibulislam-emon/nest_client">
+  <a href="https://github.com/Rakibulislam-emon/github_repo_remover">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=nest_client&theme=vue-dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Rakibulislam-emon/nest_server">
+  <a href="https://github.com/Rakibulislam-emon/Nest_Ecommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=nest_server&theme=vue-dark&hide_border=true" />
   </a>
 </div>
