@@ -89,21 +89,23 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> What I'm Up To
 
+<!-- 🌌 Cosmic About Section -->
 <div align="center">
-  
-🔭 **Currently Working On:** Building a full-stack e-commerce platform with React & Node.js  
 
-🌱 **Learning:** Advanced React patterns, GraphQL, and Cloud Architecture  
+  🔭 <b>Currently Working On:</b> Building modern full-stack applications with <b>React, Next.js, and Node.js</b> 🚀 <br><br>
 
-👯 **Looking to Collaborate:** Open source projects and innovative web applications  
+  🌱 <b>Learning:</b> Advanced React patterns, <b>System Design</b>, and <b>Cloud Architecture</b> ☁️ <br><br>
 
-🎯 **2024 Goals:** Contribute to 10+ open source projects and master Next.js  
+  👯 <b>Looking to Collaborate:</b> Innovative SaaS projects, open source tools, and scalable web applications 🤝 <br><br>
 
-💬 **Ask Me About:** React, JavaScript, Frontend Architecture  
+  🎯 <b>2025 Goals:</b> Contribute to <b>15+ open source projects</b>, master <b>Next.js 14</b>, and strengthen <b>backend expertise</b> ⚡ <br><br>
 
-⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes! 🧩  
+  💬 <b>Ask Me About:</b> React ⚛️, JavaScript 📝, Frontend Architecture 🏗️, and MERN Stack 🌐 <br><br>
+
+  ⚡ <b>Fun Fact:</b> I drink coffee like an engine fuel ⛽ but still debug faster without it ☕😂 <br><br>
 
 </div>
+
 
 ---
 
