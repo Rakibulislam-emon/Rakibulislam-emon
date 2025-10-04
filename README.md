@@ -114,31 +114,6 @@
 
   <br>
 
-  <!-- Focus Areas -->
-  <details>
-  <summary><b>🎯 Current Focus Areas</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/DSA-Learning-FF6B6B?style=flat-square&logo=leetcode&logoColor=white" />
-        <br><sub>Data Structures & Algorithms</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/System_Design-Exploring-4ECDC4?style=flat-square&logo=architecture&logoColor=white" />
-        <br><sub>Scalable Architecture</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-Mastering-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <br><sub>Advanced React Patterns</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TypeScript-Improving-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <br><sub>Type Safety & Best Practices</sub>
-      </td>
-    </tr>
-  </table>
-  </details>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
