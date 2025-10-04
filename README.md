@@ -51,47 +51,31 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
   </h2>
 
+<!-- Quick Stats Banner -->
+<div align="center">
+  
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60%">
-        <br>
+      <td align="center">
         <img src="https://img.shields.io/badge/💻_Experience-2+_Years-4ECDC4?style=for-the-badge&labelColor=000000" />
-        <br><br>
-        <strong>🚀 Coding Journey</strong>
-        <br>
-        <sub>Building, Learning, Growing</sub>
+        <br><strong>Coding Journey</strong>
       </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60%">
-        <br>
+      <td align="center">
         <img src="https://img.shields.io/badge/🎯_Projects-15+_Completed-96CEB4?style=for-the-badge&labelColor=000000" />
-        <br><br>
-        <strong>✨ Built & Deployed</strong>
-        <br>
-        <sub>Real Solutions, Real Impact</sub>
+        <br><strong>Built & Deployed</strong>
       </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
-        <br>
+      <td align="center">
         <img src="https://img.shields.io/badge/☕_Coffee-999+_Cups-FFEAA7?style=for-the-badge&labelColor=000000" />
-        <br><br>
-        <strong>☕ Fuel for Code</strong>
-        <br>
-        <sub>Powered by Caffeine</sub>
+        <br><strong>Fuel for Code</strong>
       </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%">
-        <br>
-        <img src="https://img.shields.io/badge/🎓_Learning-Always_Growing-FF6B6B?style=for-the-badge&labelColor=000000" />
-        <br><br>
-        <strong>🧠 Continuous Learner</strong>
-        <br>
-        <sub>Problem Solving in Progress</sub>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎓_Learning-DSA_&_More-FF6B6B?style=for-the-badge&labelColor=000000" />
+        <br><strong>Always Growing</strong>
       </td>
     </tr>
   </table>
 
+</div>
   <br>
 
   <!-- Additional Detailed Stats -->
