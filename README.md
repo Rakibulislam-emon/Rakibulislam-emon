@@ -40,26 +40,109 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
   <!-- Quick Stats Banner -->
+<!-- Enhanced Quick Stats Banner with Animations -->
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+  
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+    Quick Stats & Highlights
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+  </h2>
+
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60%">
+        <br>
         <img src="https://img.shields.io/badge/💻_Experience-2+_Years-4ECDC4?style=for-the-badge&labelColor=000000" />
-        <br><strong>Coding Journey</strong>
+        <br><br>
+        <strong>🚀 Coding Journey</strong>
+        <br>
+        <sub>Building, Learning, Growing</sub>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60%">
+        <br>
         <img src="https://img.shields.io/badge/🎯_Projects-15+_Completed-96CEB4?style=for-the-badge&labelColor=000000" />
-        <br><strong>Built & Deployed</strong>
+        <br><br>
+        <strong>✨ Built & Deployed</strong>
+        <br>
+        <sub>Real Solutions, Real Impact</sub>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
+        <br>
         <img src="https://img.shields.io/badge/☕_Coffee-999+_Cups-FFEAA7?style=for-the-badge&labelColor=000000" />
-        <br><strong>Fuel for Code</strong>
+        <br><br>
+        <strong>☕ Fuel for Code</strong>
+        <br>
+        <sub>Powered by Caffeine</sub>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🧩_Problems-500+_Solved-FF6B6B?style=for-the-badge&labelColor=000000" />
-        <br><strong>Logic Mastered</strong>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%">
+        <br>
+        <img src="https://img.shields.io/badge/🎓_Learning-Always_Growing-FF6B6B?style=for-the-badge&labelColor=000000" />
+        <br><br>
+        <strong>🧠 Continuous Learner</strong>
+        <br>
+        <sub>Problem Solving in Progress</sub>
       </td>
     </tr>
   </table>
+
+  <br>
+
+  <!-- Additional Detailed Stats -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚛️_React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+        <br><sub>Component Architecture Expert</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎨_UI/UX-Designer-FF6B6B?style=for-the-badge&labelColor=000000" />
+        <br><sub>Pixel Perfect Interfaces</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🚀_Performance-Optimizer-4ECDC4?style=for-the-badge&labelColor=000000" />
+        <br><sub>Fast & Efficient Code</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Focus Areas -->
+  <details>
+  <summary><b>🎯 Current Focus Areas</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DSA-Learning-FF6B6B?style=flat-square&logo=leetcode&logoColor=white" />
+        <br><sub>Data Structures & Algorithms</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Design-Exploring-4ECDC4?style=flat-square&logo=architecture&logoColor=white" />
+        <br><sub>Scalable Architecture</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-Mastering-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <br><sub>Advanced React Patterns</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-Improving-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <br><sub>Type Safety & Best Practices</sub>
+      </td>
+    </tr>
+  </table>
+  </details>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+</div>
   
   <!-- Animated Quote -->
   <blockquote>
