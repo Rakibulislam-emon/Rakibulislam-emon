@@ -115,7 +115,11 @@
   <br>
 
 </div>
-  
+    <blockquote>
+    <p><em>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=20&duration=5000&pause=3000&color=45B7D1&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+in+logic%22;%22Every+bug+is+a+lesson+in+disguise%22;%22Innovation+distinguishes+leaders+from+followers%22" alt="Quote Animation" />
+    </em></p>
+  </blockquote>
 </div>
 
 <!-- Animated Separator -->
