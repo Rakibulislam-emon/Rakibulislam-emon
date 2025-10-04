@@ -116,25 +116,6 @@
 
 </div>
   
-  <!-- Animated Quote -->
-  <blockquote>
-    <p><em>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=20&duration=5000&pause=3000&color=45B7D1&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+in+logic%22;%22Every+bug+is+a+lesson+in+disguise%22;%22Innovation+distinguishes+leaders+from+followers%22" alt="Quote Animation" />
-    </em></p>
-  </blockquote>
-</div>
-
-<!-- Floating Action Buttons -->
-<div align="center" style="position: relative;">
-  <a href="#tech-arsenal">
-    <img src="https://img.shields.io/badge/🛠️_Explore_My_Tech_Stack-FF6B6B?style=for-the-badge&labelColor=000000&animation=pulse" />
-  </a>
-  <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/🚀_View_My_Projects-4ECDC4?style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="#connect--collaborate">
-    <img src="https://img.shields.io/badge/🤝_Let's_Collaborate-96CEB4?style=for-the-badge&labelColor=000000" />
-  </a>
 </div>
 
 <!-- Animated Separator -->
