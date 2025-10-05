@@ -161,7 +161,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakibulislam-emon&theme=tokyonight&hide_border=true" />
+  <img src="[https://streak-stats.demolab.com?user=Rakibulislam-emon&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Rakibulislam-emon&theme=vue-dark&hide_border=true)" />
 </div>
 
 
