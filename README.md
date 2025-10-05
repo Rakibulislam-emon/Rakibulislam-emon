@@ -161,6 +161,19 @@
 </div> 
 
 
+<!-- GitHub Streak Stats -->
+<div align="center">
+
+  <h2>🔥 GitHub Streak</h2>
+
+  <img src="https://streak-stats.demolab.com?user=Rakibulislam-emon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+  <p>
+    Keep coding, keep growing! 🚀
+  </p>
+
+</div>
+
 
 
 <div align="center">
