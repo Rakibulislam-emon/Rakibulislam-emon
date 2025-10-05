@@ -54,47 +54,48 @@
 <!-- Quick Stats Banner -->
 <div align="center">
   
+ <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/💻_Experience-2+_Years-4ECDC4?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/💻_Coding-Journey-4ECDC4?style=for-the-badge&labelColor=000000" />
         <br><strong>Coding Journey</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Projects-15+_Completed-96CEB4?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🎯_Built_&_Deployed-96CEB4?style=for-the-badge&labelColor=000000" />
         <br><strong>Built & Deployed</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/☕_Coffee-999+_Cups-FFEAA7?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/☕_Fuel_for_Code-FFEAA7?style=for-the-badge&labelColor=000000" />
         <br><strong>Fuel for Code</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎓_Learning-DSA_&_More-FF6B6B?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🎓_Always_Learning-FF6B6B?style=for-the-badge&labelColor=000000" />
         <br><strong>Always Growing</strong>
       </td>
     </tr>
   </table>
 
-</div>
   <br>
 
-  <!-- Additional Detailed Stats -->
   <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/⚛️_React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-        <br><sub>Component Architecture Expert</sub>
+        <br><sub>Component Architecture</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎨_UI/UX-Designer-FF6B6B?style=for-the-badge&labelColor=000000" />
-        <br><sub>Pixel Perfect Interfaces</sub>
+        <img src="https://img.shields.io/badge/🎨_UI/UX-Practical-FF6B6B?style=for-the-badge&labelColor=000000" />
+        <br><sub>Pixel-aware Interfaces</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🚀_Performance-Optimizer-4ECDC4?style=for-the-badge&labelColor=000000" />
-        <br><sub>Fast & Efficient Code</sub>
+        <img src="https://img.shields.io/badge/🚀_Performance-Pragmatic-4ECDC4?style=for-the-badge&labelColor=000000" />
+        <br><sub>Fast & Maintainable</sub>
       </td>
     </tr>
   </table>
+</div>
+
 
   <br>
 
