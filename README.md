@@ -279,7 +279,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cb77e,100:2a9d8f&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
 
-----
+-----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
