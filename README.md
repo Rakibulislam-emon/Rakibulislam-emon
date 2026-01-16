@@ -121,7 +121,7 @@
 
   👯 <b>Looking to Collaborate:</b> Innovative SaaS projects, open source tools, and scalable web applications 🤝 <br><br>
 
-  🎯 <b>2025 Goals:</b> Contribute to <b>15+ open source projects</b>, master <b>Next.js 15</b>, and strengthen <b>backend expertise</b> ⚡ <br><br>
+  🎯 <b>2026 Goals:</b> Contribute to <b>15+ open source projects</b>, master <b>Next.js 16</b>, and strengthen <b>backend expertise</b> ⚡ <br><br>
 
   💬 <b>Ask Me About:</b> React ⚛️, JavaScript 📝, Frontend Architecture 🏗️, and MERN Stack 🌐 <br><br>
 
